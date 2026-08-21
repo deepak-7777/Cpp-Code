@@ -11,7 +11,7 @@ The purpose of this project is to practice C++ syntax, logic building, and funda
 ---
 
 ## 🚀 Topics Covered 
-
+ 
 * Variables & Data Types
 * Input / Output Operations
 * Conditional Statements
